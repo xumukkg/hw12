@@ -1,0 +1,39 @@
+
+body{
+	font-family: sans-serif;
+	margin: 0px;
+}
+*{
+	box-sizing: border-box;
+}
+.containers {
+	max-width: 500px;
+	margin: 0 auto;
+
+}
+.box {
+	
+}
+.btn-1{
+	border: none;
+	background: green;
+	padding: 10px;
+	color: #fff;
+	border-radius: 5px;
+	font-size: 20px;
+}
+.success{
+	padding: 50px;
+	background: #FFF;
+	display: none;
+	text-align: center;
+	border-radius: 5px;
+	width: 300px;
+	margin: 50px auto;
+
+
+}
+.checker{
+	font-size: 50px;
+	color: green;
+}
